@@ -6,3 +6,9 @@ Created by:
  
 Industry Partners:
 ![Yandex](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e4/a53940bb8411e7874859f9f9875d24/yandex_logo_EN_square.png?auto=format%2Ccompress&dpr=1&w=150&h=)
+
+```
+if (isAwesome){
+  return true
+}
+```

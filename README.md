@@ -29,7 +29,7 @@ that provide the foundation to the current state-of-the art in AI.
 
 - [x]  Introduction to Deep Learning
 - [ ]  How to Win Kaggle Competitions
-- [ ]  Bayesian Mathods for Machine learning
+- [ ]  Bayesian Methods for Machine learning
 - [ ]  Practical Reinforcement Learning
 - [ ]  Computer Vision
 - [ ]  Natural Language Processing

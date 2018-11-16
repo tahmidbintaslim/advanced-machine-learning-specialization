@@ -1,8 +1,9 @@
-# Advanced Machine Learning Specialization 
+# Coursera - Advanced Machine Learning Specialization 
 
 ![Advanced Machine Learning](https://d15cw65ipctsrr.cloudfront.net/44/571ff08f2211e7b065b9a1d29b8277/General.png)
 
 ```This specialization gives an introduction to deep learning, reinforcement learning, natural language understanding, computer vision and Bayesian methods. Top Kaggle machine learning practitioners and CERN scientists will share their experience of solving real-world problems and help you to fill the gaps between theory and practice. Upon completion of 7 courses you will be able to apply modern machine learning methods in enterprise and understand the caveats of real-world data and settings. ```
+
 
 
 > Created by: 
@@ -18,14 +19,13 @@
 ### Projects Overview
 
 ```
-You will master your skills by solving a wide variety of real-world problems like 
+Master the skills by solving a wide variety of real-world problems like 
 image captioning and automatic game playing throughout the course projects. 
 You will gain the hands-on experience of applying advanced machine learning techniques 
 that provide the foundation to the current state-of-the art in AI.
 ```
 
-
-### Courses
+> ### Courses
 
 - [x]  Introduction to Deep Learning
 - [ ]  How to Win Kaggle Competitions

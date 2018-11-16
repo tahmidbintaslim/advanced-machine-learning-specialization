@@ -14,5 +14,6 @@
 
 ### Projects Overview
 
-
+'''
 You will master your skills by solving a wide variety of real-world problems like image captioning and automatic game playing throughout the course projects. You will gain the hands-on experience of applying advanced machine learning techniques that provide the foundation to the current state-of-the art in AI.
+'''

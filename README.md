@@ -1,4 +1,4 @@
-# Coursera - Advanced Machine Learning Specialization 
+> # Coursera - Advanced Machine Learning Specialization 
 
 ![Advanced Machine Learning](https://d15cw65ipctsrr.cloudfront.net/44/571ff08f2211e7b065b9a1d29b8277/General.png)
 
@@ -6,17 +6,17 @@
 
 
 
-> Created by: 
+> ### Created by: 
 
 ![HSE](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/2d/dd0e9084f611e380733b622a66e510/logo_hse_white_invert-copy.png?auto=format%2Ccompress&dpr=1&w=200&h=100&fit=clip)
  
-> Industry Partners:
+> ### Industry Partners:
 
 ![Yandex](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e4/a53940bb8411e7874859f9f9875d24/yandex_logo_EN_square.png?auto=format%2Ccompress&dpr=1&w=150&h=)
 
 
 
-### Projects Overview
+> ### Projects Overview
 
 ```
 Master the skills by solving a wide variety of real-world problems like 

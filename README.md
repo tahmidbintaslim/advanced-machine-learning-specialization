@@ -8,6 +8,6 @@
 > Industry Partners:
 ![Yandex](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e4/a53940bb8411e7874859f9f9875d24/yandex_logo_EN_square.png?auto=format%2Ccompress&dpr=1&w=150&h=)
 
->Projects Overview
+### Projects Overview
 
 You will master your skills by solving a wide variety of real-world problems like image captioning and automatic game playing throughout the course projects. You will gain the hands-on experience of applying advanced machine learning techniques that provide the foundation to the current state-of-the art in AI.

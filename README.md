@@ -22,10 +22,10 @@ that provide the foundation to the current state-of-the art in AI.
 ```
 
 
-- [] * Introduction to Deep Learning
-- [] * How to Win Kaggle Competitions
-- [] * Bayesian Mathods for Machine learning
-- [] * Practical Reinforcement Learning
-- [] * Coputer Vision
-- [] * Natural Language Processing
-- [] * Addressing Large Hadron Collider
+- [ x ]  Introduction to Deep Learning
+- [ ]  How to Win Kaggle Competitions
+- [ ]  Bayesian Mathods for Machine learning
+- [ ]  Practical Reinforcement Learning
+- [ ]  Computer Vision
+- [ ]  Natural Language Processing
+- [ ]  Addressing Large Hadron Collider

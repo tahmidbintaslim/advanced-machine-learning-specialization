@@ -1,4 +1,4 @@
- ## Advanced Machine Learning Specialization 
+# Advanced Machine Learning Specialization 
 
 ![Advanced Machine Learning](https://d15cw65ipctsrr.cloudfront.net/44/571ff08f2211e7b065b9a1d29b8277/General.png)
 

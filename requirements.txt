@@ -2,6 +2,14 @@ opencv-python==3.2.0.6
 jupyter==1.0.0
 matplotlib==2.1.1
 pandas==0.22.0
-numpy==1.12.1
+numpy==1.22.2
 pillow==5.0.0
-scipy==1.0.0
+scipy==1.10.0rc1
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-core>=4.11.2 # not directly required, pinned by Snyk to avoid a vulnerability
+mistune>=2.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
+nbconvert>=6.3.0b0 # not directly required, pinned by Snyk to avoid a vulnerability
+notebook>=6.4.12 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
